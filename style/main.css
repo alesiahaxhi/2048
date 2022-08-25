@@ -53,14 +53,14 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: cornflowerblue;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: pink;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -76,7 +76,7 @@ h1.title {
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: red;
+    color: crimson;
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
